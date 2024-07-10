@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abdelfattahahmed78
-- 👀 I’m interested in Machine Learning
+- 👋 Hi, I’m abdelfattahahmed
+- 👀 I’m interested in Machine Learning 
 - 🌱 I’m currently learning python
 
 <!---
